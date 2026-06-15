@@ -343,7 +343,7 @@ elif pagina == "Conclusiones":
     st.subheader("💼 Casos de uso")
 
     st.info("""
-    🏭 Bodegas:
+    .🏭 Bodegas:
     Clasificación automática de lotes.
 
     🧪 Laboratorios:
